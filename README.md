@@ -3,7 +3,7 @@
 
 Este projeto simula, em linguagem C, os movimentos das principais peças de xadrez utilizando **estruturas de repetição**, **recursividade** e **loops aninhados**. A atividade está dividida em três níveis: Novato, Aventureiro e Mestre.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Desenvolver lógica de programação em C para:
 - Praticar `for`, `while` e `do-while`
@@ -11,7 +11,7 @@ Desenvolver lógica de programação em C para:
 - Construir `loops aninhados e complexos`
 - Simular movimentos realistas de peças no tabuleiro
 
-## 🔰 Nível Novato
+##  Nível Novato
 
 ### Torre (Recursividade)
 - Movimento: 5 casas para a **direita**
@@ -23,26 +23,26 @@ Desenvolver lógica de programação em C para:
 ### Rainha (Recursividade)
 - Movimento: 8 casas para a **esquerda**
 
-## ⚔️ Nível Aventureiro
+##  Nível Aventureiro
 
 ### Cavalo (Loops aninhados)
 - Movimento: 2 casas para **baixo**, 1 casa para **esquerda**
 - Obs: no projeto final, adaptado para cima e direita com múltiplas condições
 
-## 🧠 Nível Mestre
+##  Nível Mestre
 
 - Torre, Bispo e Rainha com recursividade
 - Bispo com loops aninhados
 - Cavalo com loops complexos (`for` + `while`, múltiplas variáveis)
 
-## 🛠️ Como compilar e executar
+##  Como compilar e executar
 
 ```bash
 gcc xadrez.c -o xadrez
 ./xadrez
 ```
 
-## ✅ Requisitos atendidos
+##  Requisitos atendidos
 
 - [x] Estruturas `for`, `while`, `do-while`
 - [x] Recursividade aplicada corretamente
@@ -51,4 +51,4 @@ gcc xadrez.c -o xadrez
 
 Desenvolvido por: **Michele Cardoso Müller**  
 Curso: Ciência da Computação – Estácio  
-Entrega: Junho/2025
+Entrega: Julho/2025
